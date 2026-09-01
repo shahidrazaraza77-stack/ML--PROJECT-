@@ -20,12 +20,14 @@ Kaggle Titanic - Machine Learning from Disaster (train.csv, 891 passengers)
 | **Random Forest** | **84.4%** | **81.1%** | **81.1%** |
 
 
-   ## Feature Importance
-   ![Feature Importance](feature_importance.png)
-
 Random Forest outperformed Logistic Regression across all metrics, likely due to 
 its ability to capture non-linear relationships and feature interactions.
 
+
+   ## Feature Importance
+   ![Feature Importance](feature_importance.png)
+
+   
 ## Key Insight
 [Fill in once you see feature importance — e.g., "Sex and Title were the strongest 
 predictors of survival, consistent with the historical 'women and children first' 
